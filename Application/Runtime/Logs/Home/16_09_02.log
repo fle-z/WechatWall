@@ -1,0 +1,369 @@
+[ 2016-09-02T11:24:46+08:00 ] 127.0.0.1 /WechatWall/
+ERR: 非法操作:index
+
+[ 2016-09-02T20:26:48+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/index.htm
+ERR: 无法加载控制器:Wall
+
+[ 2016-09-02T20:28:14+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/index.htm
+ERR: 非法操作:index.htm
+
+[ 2016-09-02T20:28:23+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/__JS__/jquery.js
+ERR: 非法操作:__JS__
+
+[ 2016-09-02T20:28:23+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/__CSS__/wxwall.css
+ERR: 非法操作:__CSS__
+
+[ 2016-09-02T20:28:23+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/__JS__/jquery.js
+ERR: 非法操作:__JS__
+
+[ 2016-09-02T20:28:23+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/__CSS__/wxwall.css
+ERR: 非法操作:__CSS__
+
+[ 2016-09-02T20:28:23+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/__JS__/jquery.js
+ERR: 非法操作:__JS__
+
+[ 2016-09-02T20:28:23+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/__CSS__/wxwall.css
+ERR: 非法操作:__CSS__
+
+[ 2016-09-02T20:44:20+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002582s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:47:16+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002684s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:47:32+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003279s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:10+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001860s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:12+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003234s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:20+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:28+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002123s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:33+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:41+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:49+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:48:57+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002670s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:05+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:13+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:21+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:29+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002644s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:37+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:45+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:49:53+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:01+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002238s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:09+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:17+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:25+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003195s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:33+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:41+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:49+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:50:57+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001434s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:05+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:13+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:21+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:29+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:37+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:45+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:51:53+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:01+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:09+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:17+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:25+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:33+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:41+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:49+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001407s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:52:57+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:05+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:13+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:21+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:29+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:37+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:45+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:53+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api.php?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+ERR: 非法操作:api.php
+
+[ 2016-09-02T20:53:59+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+NOTIC: [8] Undefined variable: link C:\wamp\www\WechatWall\Application\Home\Controller\WallController.class.php 第 19 行.
+NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given C:\wamp\www\WechatWall\Application\Home\Controller\WallController.class.php 第 19 行.
+
+[ 2016-09-02T21:03:26+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api?lastid=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+NOTIC: [8] Undefined variable: link C:\wamp\www\WechatWall\Application\Home\Controller\WallController.class.php 第 19 行.
+NOTIC: [2] mysql_query() expects parameter 2 to be resource, null given C:\wamp\www\WechatWall\Application\Home\Controller\WallController.class.php 第 19 行.
+
+[ 2016-09-02T21:14:26+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wechatwall'
+
+[ 2016-09-02T21:15:10+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wexin_wall'
+
+[ 2016-09-02T21:15:11+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wexin_wall'
+
+[ 2016-09-02T21:16:01+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wexin_wall'
+
+[ 2016-09-02T21:16:02+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wexin_wall'
+
+[ 2016-09-02T21:16:03+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wexin_wall'
+
+[ 2016-09-02T21:16:04+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wexin_wall'
+
+[ 2016-09-02T21:16:43+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wechatwall'
+
+[ 2016-09-02T21:16:44+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'wechatwall'
+
+[ 2016-09-02T21:19:06+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-09-02T21:19:07+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-09-02T21:19:08+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-09-02T21:19:58+08:00 ] 127.0.0.1 /WechatWall/index.php/Wall/api
+ERR: 1146:Table 'wechatwall.weixinwall' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `weixinwall`
+
